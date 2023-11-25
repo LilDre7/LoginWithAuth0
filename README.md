@@ -27,10 +27,9 @@ foobar.singularize('phenomena')
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Auth0 is an easy to implement, adaptable authentication and authorization platformge.
 
-Please make sure to update tests as appropriate.
+It all starts with Customer Identity
 
 ## License
 
