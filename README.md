@@ -4,16 +4,16 @@ With a few lines of code you can have Auth0 integrated in any app written in any
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install react.
 
 ```bash
-pip install foobar
+npm run install
 ```
 
 ## Usage
 
-```python
-import foobar
+```Javascript 
+import auth0
 
 # returns 'words'
 foobar.pluralize('word')
@@ -34,4 +34,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GITHUB DEL PROYECTO ](https://github.com/LilDre7/LoginWithAuth0)
