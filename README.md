@@ -16,7 +16,11 @@ npm run install
 import auth0
 
 # returns 'words'
-foobar.pluralize('word')
+const login = async () => {
+  await auth0.loginWithRedirect({
+    redirect_uri: window.location.origin
+  });
+};
 
 # returns 'geese'
 foobar.pluralize('goose')
