@@ -15,18 +15,14 @@ npm run install
 ```Javascript 
 import auth0
 
-# returns 'words'
+# import auth0 from "auth0"
+
 const login = async () => {
   await auth0.loginWithRedirect({
     redirect_uri: window.location.origin
   });
 };
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing
